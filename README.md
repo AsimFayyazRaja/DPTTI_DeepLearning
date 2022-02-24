@@ -4,10 +4,11 @@ Detection of Persuasive Techniques in Texts and Images
 
 | Task  | Purpose  | Notebook Link |
 | :------------ |:---------------:| -----:|
-| Comparison      | Comparison of various models | https://docs.google.com/spreadsheets/d/1jeUZLGC1_-tV8i0FMSfF44O67yhQcPaRw3OtexexHDc/edit#gid=0 |
+| Comparison       | Comparison of various models | https://docs.google.com/spreadsheets/d/1jeUZLGC1_-tV8i0FMSfF44O67yhQcPaRw3OtexexHDc/edit#gid=0 |
 | 1 full code      | Full code for modelling of task 1 in 1 notebook | https://colab.research.google.com/drive/1yqe6R8cZMcSP3rbuOqF9bzrFX8TO4UCB#scrollTo=21-uMAr2dfaE |
 | 2 full code      | Full code for modelling of task 2 in 1 notebook | https://colab.research.google.com/drive/1Rz_zZSFhxT-VX1IpkMN8-KGM8gunOCqV |
 | 3 full code      | Full code for modelling of task 3 in 1 notebook | https://colab.research.google.com/drive/1PY6Q0ascApW6_SBw9gGY3MGthhchNo4Z#scrollTo=ta9mvgkBfOTH |
+| Full             | DL Report       |  https://docs.google.com/document/d/1Uwj0UIKNOqRLqZ4TrzXh7OkhQefo2iLLwfEmHEgHegM/edit |
 | 1      | Transformers applied on task 1 | https://colab.research.google.com/drive/1I5mly3QgkLJ8z3T21B2frY4cpJVaigvr |
 | 1      | TFIDF with ML models        |   https://colab.research.google.com/drive/1S4ELUxJ80di4VJGcnawis6UeQSbzPvio#scrollTo=sSV_cqmL5U-V |
 | 1      | Acquiring data for task 1        |   https://colab.research.google.com/drive/1rPMjwdls5j9rElxrOq5opub4REKJoHUA |
@@ -21,7 +22,7 @@ Detection of Persuasive Techniques in Texts and Images
 | 3      | Acquiring data for task 3        |   https://colab.research.google.com/drive/1xHotf1VptCt-6IpG-ZnisCS5UvOsY6vg |
 | 3      | Pretrained resnet with ML models        |   https://colab.research.google.com/drive/17lbihR2eB4dUO4EG6k8t2BJCFQx9y_Cp |
 | 3      | Vision transformers       |   https://colab.research.google.com/drive/15CRs42k-De249ij6hQvJBKfsQ6F7gSdz |
-| 3      | DL Report       |  https://docs.google.com/document/d/1Uwj0UIKNOqRLqZ4TrzXh7OkhQefo2iLLwfEmHEgHegM/edit |
+
 
 
 
