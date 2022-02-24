@@ -21,6 +21,7 @@ Detection of Persuasive Techniques in Texts and Images
 | 3      | Acquiring data for task 3        |   https://colab.research.google.com/drive/1xHotf1VptCt-6IpG-ZnisCS5UvOsY6vg |
 | 3      | Pretrained resnet with ML models        |   https://colab.research.google.com/drive/17lbihR2eB4dUO4EG6k8t2BJCFQx9y_Cp |
 | 3      | Vision transformers       |   https://colab.research.google.com/drive/15CRs42k-De249ij6hQvJBKfsQ6F7gSdz |
+| 3      | DL Report       |   https://docs.google.com/document/d/1_UmdpyaSSrNwYH94eQFINeRViG2laWa7/edit?usp=sharing&ouid=106778530731267760118&rtpof=true&sd=true |
 
 
 
